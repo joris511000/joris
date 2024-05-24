@@ -1,0 +1,12 @@
+début acheterbonbons
+
+si budget > prix du bonbon
+achat bonbon = 1
+budget - prix bonbon = budget restant
+Tant que budget restant > prix a bonbon
+répété boucle 
+nombre de bonbon = chiffre entier
+fin si budget restant < prix du bonbon
+ 
+fin acheterbonbons
+
